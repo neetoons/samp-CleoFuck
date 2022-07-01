@@ -1,0 +1,10 @@
+{
+	"user": "neetoons",
+	"repo": "samp-CleoFuck",
+	"tag": "0.3.5",
+	"entry": "test.pwn",
+	"output": "gamemodes/test.amx",
+	"dependencies": [
+		"pawn-lang/samp-stdlib"
+	]
+}
